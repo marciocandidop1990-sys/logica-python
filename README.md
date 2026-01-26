@@ -22,4 +22,4 @@ organização de código e boas práticas para iniciantes.
 ## ▶️ Como executar o projeto
 1. Clone o repositório:
 ```bash
-git clone https://github.com/SEU_USUARIO/calculadora-python.git
+git clone https://github.com/marciocandidop1990-sys/calculadora-python.git
