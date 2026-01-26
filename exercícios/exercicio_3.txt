@@ -1,0 +1,11 @@
+Exercício 3: Calcular a porcentagem de um número.
+
+Entradas:
+- Número: 50
+- Percentual: 20
+
+Operação:
+- Calcular o valor correspondente à porcentagem.
+
+Resultado esperado:
+- 10

@@ -1,0 +1,13 @@
+Exercício 2: Calcular a multiplicação e a divisão de dois números.
+
+Entradas:
+- Número 1: 8
+- Número 2: 2
+
+Operações:
+- Multiplicação
+- Divisão (com tratamento de divisão por zero)
+
+Resultado esperado:
+- Multiplicação: 16
+- Divisão: 4

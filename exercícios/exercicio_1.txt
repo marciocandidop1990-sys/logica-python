@@ -1,0 +1,11 @@
+Exercício 1: Calcular a soma de dois números.
+
+Entradas:
+- Número 1: 7
+- Número 2: 3
+
+Operação esperada:
+- Soma dos dois números.
+
+Resultado esperado:
+- 10

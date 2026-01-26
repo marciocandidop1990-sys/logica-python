@@ -1,0 +1,11 @@
+Exercício 4: Calcular a potência de um número.
+
+Entradas:
+- Base: 2
+- Expoente: 3
+
+Operação:
+- Calcular a potência da base pelo expoente.
+
+Resultado esperado:
+- 8

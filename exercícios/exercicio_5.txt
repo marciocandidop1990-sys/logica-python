@@ -1,0 +1,10 @@
+Exercício 5: Calcular a raiz quadrada de um número.
+
+Entrada:
+- Número: 16
+
+Operação:
+- Calcular a raiz quadrada do número.
+
+Resultado esperado:
+- 4
